@@ -42,7 +42,7 @@ Dessa forma, solicitações de ampliação de recursos devem ser fundamentadas p
 
 Toda solicitação de ampliação de recursos deverá ser acompanhada de informações que permitam sua adequada avaliação.
 
-Espera-se que a equipe responsável pela aplicação apresente:
+Espera-se que a equipe responsável pela aplicação apresente, além do formulário em anexo preenchido:
 
 ### Evidências de Análise Técnica
 
