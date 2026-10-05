@@ -44,7 +44,7 @@ Toda solicitação de ampliação de recursos deverá ser acompanhada de informa
 
 Espera-se que a equipe responsável pela aplicação apresente, além do formulário com as informações necessárias preenchido:
 
-> **NOTA:** O formulário pode ser acessado por [este link](https://pfgovbr-my.sharepoint.com/:w:/g/personal/jose_jgnn_pf_gov_br/IQAoq4bQxA1yTaXgXCJsX9vVAaRwaLtjnXJ5feuhfaKDrQs?e=nppE1g){:target="_blank"}. O formulário, após preenchido, deverá ser convertido em PDF e disponibilizado no OneDrive. O link para acesso ao documento, hospedado no OneDrive, deverá constar na descrição do chamado.
+> **NOTA:** O formulário pode ser acessado por [este link](https://pfgovbr-my.sharepoint.com/:w:/g/personal/jose_jgnn_pf_gov_br/IQAoq4bQxA1yTaXgXCJsX9vVAaRwaLtjnXJ5feuhfaKDrQs?e=nppE1g). O formulário, após preenchido, deverá ser convertido em PDF e disponibilizado no OneDrive. O link para acesso ao documento, hospedado no OneDrive, deverá constar na descrição do chamado.
 
 ### Evidências de Análise Técnica
 
@@ -197,3 +197,9 @@ Este processo busca equilibrar dois objetivos fundamentais:
 - Promover o uso racional dos recursos computacionais da plataforma OpenShift, evitando superdimensionamentos e assegurando a eficiência do ambiente compartilhado.
 
 A ampliação de recursos deve ser entendida como uma decisão técnica baseada em evidências e alinhada às necessidades reais da aplicação e da plataforma.
+
+## Links úteis
+
+- [Modelo de formulário](https://pfgovbr-my.sharepoint.com/:w:/g/personal/jose_jgnn_pf_gov_br/IQAoq4bQxA1yTaXgXCJsX9vVAaRwaLtjnXJ5feuhfaKDrQs?e=nppE1g)
+
+> O formulário preenchido deverá ser referenciado na descrição do chamado (*ticket*) de solicitação de recursos OpensShift.
