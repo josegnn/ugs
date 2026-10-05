@@ -42,7 +42,9 @@ Dessa forma, solicitações de ampliação de recursos devem ser fundamentadas p
 
 Toda solicitação de ampliação de recursos deverá ser acompanhada de informações que permitam sua adequada avaliação.
 
-Espera-se que a equipe responsável pela aplicação apresente, além do formulário em anexo preenchido:
+Espera-se que a equipe responsável pela aplicação apresente, além do formulário com as informações necessárias preenchido:
+
+> **NOTA:** O formulário pode ser acessado por [este link](). O formulário, após preenchido, deverá ser convertido em PDF e disponibilizado no OneDrive. O link para acesso ao documento, hospedado no OneDrive, deverá constar na descrição do chamado.
 
 ### Evidências de Análise Técnica
 
