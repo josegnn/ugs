@@ -168,10 +168,7 @@ Antes de encaminhar a solicitação, verifique se todos os itens abaixo foram at
 
 ### Otimização da Aplicação
 
-- [ ] Foram realizadas ações de otimização e seus resultados foram apresentados.
-
-**OU**
-
+- [ ] Foram realizadas ações de otimização e seus resultados foram apresentados; **ou**
 - [ ] Foi apresentado plano de otimização com atividades e cronograma.
 
 ### Justificativa do Provisionamento
